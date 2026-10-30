@@ -1,0 +1,10 @@
+{
+  "dataset_name": "smart-contract-vulnerabilities-and-patches-corpus",
+  "sample_records_count": 500,
+  "enterprise_records_count": 5000,
+  "format": "JSONL / Parquet",
+  "license": "Open Source Sample (MIT) / Commercial Enterprise Corpus",
+  "commercial_url": "https://github.com/MilindChatrabhuji/edgesaas-starter-kit",
+  "author": "Milind Chatrabhuji",
+  "version": "1.0.0"
+}
